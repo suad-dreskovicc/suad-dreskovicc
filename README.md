@@ -53,7 +53,7 @@
   <rect x="372" y="156" width="380" height="3" fill="url(#line)"/>
   <text x="372" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#cbd5e1" letter-spacing="3">
 
-<h3 align="center"> Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | Vulnerability Management |  GRC</h3>
+<h3 align="center"> Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | Vulnerability Management |  GRC </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
