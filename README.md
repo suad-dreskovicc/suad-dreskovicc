@@ -47,7 +47,7 @@
     <path d="M-8 148 L8 148 L13 188 L-13 188 Z" fill="#5eead4"/>
     <circle cx="0" cy="136" r="7" fill="#0b1622"/>
   </g>
-
+  
   <!-- text -->
   <text x="370" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">
   <rect x="372" y="156" width="380" height="3" fill="url(#line)"/>
