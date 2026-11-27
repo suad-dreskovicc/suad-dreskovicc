@@ -1,5 +1,5 @@
 # Introduction 
-
+ 
 <img width="1000" height="300" alt="banner" src="https://github.com/user-attachments/assets/d4ad3583-9404-4b9f-81bc-302b55f9969c" /><svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Suad Dreskovic - Cybersecurity Portfolio" xmlns:c2pa="http://c2pa.org/manifest">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
