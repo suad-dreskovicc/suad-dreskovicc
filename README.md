@@ -50,7 +50,7 @@
     <circle cx="0" cy="136" r="7" fill="#0b1622"/>
   </g>
   
-  <!-- text -->
+
   <text x="370" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">
   <rect x="372" y="156" width="380" height="3" fill="url(#line)"/>
   <text x="372" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#cbd5e1" letter-spacing="3">
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/BASED_IN-NEW_YORK,_US-1b4d57?style=flat-square" alt="Based in New York">
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
